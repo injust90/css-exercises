@@ -1,1 +1,21 @@
-/* Add CSS Styling */
+p {
+    background-color: pink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+    font-size: large;
+}
+
+p.x-large {
+    font-size: 36px;
+}
+
+#number2 {
+    font-size: xx-large;
+    font-weight: 600;
+    color: blue;
+}
+
+#number4 {
+    background-color: lightgreen;
+    font-weight: 800;
+    font-size: x-large;
+}
